@@ -2,4 +2,3 @@ Template to be used with [cargo-generate](https://crates.io/crates/cargo-generat
 
 Differences to `cargo new`:
 - My preferred `rustfmt.toml`
-- Ignores `Cargo.lock`
