@@ -11,7 +11,8 @@ cargo generate eddien24/rust-template
 ```
 
 ### Usage
-- `nix develop`: start developement shell. Will create `flake.lock` the first time it is run.
+- `nix develop`: start developement shell.
+  - First launch: need to `git add .` so it creates `flake.lock`
 - `nix build`: build project
 - `nix run`: run project
 
